@@ -15,10 +15,10 @@ pip install matplotlib
 A total of 103 neighborhoods have been clustered into 8 clusters where the number of clusters were found with elbow method by assessing euclidean distance and avg distortion.
 
 ## Before
-![Unclustered](http://url/to/img.png)
+![Unclustered](https://github.com/ManasVardhan/Coursera_Capstone/blob/main/Unclustered%20data.png)
 
 ## After 
-![Clustered](http://url/to/img.png)
+![Clustered](https://github.com/ManasVardhan/Coursera_Capstone/blob/main/Clustered%20Data.png)
 
 
 ## Contributing
