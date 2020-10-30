@@ -24,9 +24,3 @@ A total of 103 neighborhoods have been clustered into 8 clusters where the numbe
 ## Contributing
 Pull requests are welcome. For changes, please open an issue first to discuss what you would like to change.
 
-## Folium Usage
-  ### Unclustered
-<srcipt src="https://colab.research.google.com/gist/ManasVardhan/d25bd568d4677d08f02421c3c419d8e8/map_gist.ipynb#scrollTo=FO2fk98YU7eH&line=3&uniqifier=1"></script>
-  
-  ### Clustered
-<script src="https://colab.research.google.com/gist/ManasVardhan/d25bd568d4677d08f02421c3c419d8e8/map_gist.ipynb#scrollTo=UK_8WxUHUbYB&line=13&uniqifier=1"></script>
