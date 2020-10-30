@@ -26,7 +26,7 @@ Pull requests are welcome. For changes, please open an issue first to discuss wh
 
 ## Folium Usage
   ### Unclustered
-<srcipt src="https://colab.research.google.com/drive/1ayBNkW8XL8p9S6jq-EgCoE9ww74K6rsg#scrollTo=FO2fk98YU7eH&line=3&uniqifier=1"></script>
+<srcipt src="https://colab.research.google.com/gist/ManasVardhan/d25bd568d4677d08f02421c3c419d8e8/map_gist.ipynb#scrollTo=FO2fk98YU7eH&line=3&uniqifier=1"></script>
   
   ### Clustered
-<script src="https://colab.research.google.com/drive/1ayBNkW8XL8p9S6jq-EgCoE9ww74K6rsg#scrollTo=UK_8WxUHUbYB&line=11&uniqifier=1"></script>
+<script src="https://colab.research.google.com/gist/ManasVardhan/d25bd568d4677d08f02421c3c419d8e8/map_gist.ipynb#scrollTo=UK_8WxUHUbYB&line=13&uniqifier=1"></script>
