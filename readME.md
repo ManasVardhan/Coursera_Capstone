@@ -29,4 +29,4 @@ Pull requests are welcome. For changes, please open an issue first to discuss wh
 <srcipt src="https://colab.research.google.com/drive/1ayBNkW8XL8p9S6jq-EgCoE9ww74K6rsg#scrollTo=FO2fk98YU7eH&line=3&uniqifier=1">
   
   ### Clustered
- <script src="https://colab.research.google.com/drive/1ayBNkW8XL8p9S6jq-EgCoE9ww74K6rsg#scrollTo=UK_8WxUHUbYB&line=11&uniqifier=1">
+<script src="https://colab.research.google.com/drive/1ayBNkW8XL8p9S6jq-EgCoE9ww74K6rsg#scrollTo=UK_8WxUHUbYB&line=11&uniqifier=1">
