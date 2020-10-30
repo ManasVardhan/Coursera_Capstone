@@ -18,7 +18,7 @@ A total of 103 neighborhoods have been clustered into 8 clusters where the numbe
 ![Unclustered](https://github.com/ManasVardhan/Coursera_Capstone/blob/main/Unclustered%20data.png)
 
 ## After 
-![Clustered](https://github.com/ManasVardhan/Coursera_Capstone/blob/main/Clustered%20Data.png)
+![Clustered](https://github.com/ManasVardhan/Coursera_Capstone/blob/main/Clustered.png)
 
 
 ## Contributing
